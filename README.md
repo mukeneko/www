@@ -6,6 +6,6 @@
     <h1>HELLO NARUTO</h1>
   </body>
   <img>
-  いらすとや.png
+  onepiece02_zoro_bandana.png
   </img>
 </html>
